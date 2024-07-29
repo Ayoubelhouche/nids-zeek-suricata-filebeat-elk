@@ -18,6 +18,8 @@ This project sets up an Intrusion Detection System (IDS) using Zeek and Suricata
 ## Installation
 
 To set up the environment, please follow the guide step-by-step.
+go to docs -> then open installation steps and follow them !
+good luck !
 
 ## Note
 
