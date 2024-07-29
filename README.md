@@ -1,5 +1,5 @@
 
-![header](docs/title.png)
+![header](screenshots/title.png)
 
 # Intrusion Detection with Zeek, Suricata, Filebeat, Elasticsearch, and Kibana
 
