@@ -4,23 +4,23 @@ Follow the coherent steps in order to complete the installation of Zeek, Suricat
 
 ## 1 - Install Zeek
 
-Refer to the detailed installation steps in [docs/zeek-Installation.md](docs/zeek-Installation.md).
+Refer to the detailed installation steps in [docs/zeek-Installation.md](zeek-Installation.md).
 
 ## 2 - Install Suricata
 
-Refer to the detailed installation steps in [docs/suricata-Installation.md](docs/suricata-Installation.md).
+Refer to the detailed installation steps in [docs/suricata-Installation.md](suricata-Installation.md).
 
 ## 3 - Install Filebeat
 
-Refer to the detailed installation steps in [docs/filebeat-Installation.md](docs/filebeat-Installation.md).
+Refer to the detailed installation steps in [docs/filebeat-Installation.md](filebeat-Installation.md).
 
 ## 4 - Install Elasticsearch
 
-Refer to the detailed installation steps in [docs/elasticsearch-Installation.md](docs/elasticsearch-Installation.md).
+Refer to the detailed installation steps in [docs/elasticsearch-Installation.md](elasticsearch-Installation.md).
 
 ## 5 - Install Kibana
 
-Refer to the detailed installation steps in [docs/kibana-Installation.md](docs/kibana-Installation.md).
+Refer to the detailed installation steps in [docs/kibana-Installation.md](kibana-Installation.md).
 
 ## 5 - Start !!
 
